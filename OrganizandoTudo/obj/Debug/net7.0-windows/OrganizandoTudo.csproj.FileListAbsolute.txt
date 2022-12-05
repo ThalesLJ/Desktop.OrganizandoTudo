@@ -1,0 +1,17 @@
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\bin\Debug\net7.0-windows\OrganizandoTudo.exe
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\bin\Debug\net7.0-windows\OrganizandoTudo.deps.json
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\bin\Debug\net7.0-windows\OrganizandoTudo.runtimeconfig.json
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\bin\Debug\net7.0-windows\OrganizandoTudo.dll
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\bin\Debug\net7.0-windows\OrganizandoTudo.pdb
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.csproj.AssemblyReference.cache
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.Form1.resources
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.csproj.GenerateResource.cache
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.AssemblyInfoInputs.cache
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.AssemblyInfo.cs
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.csproj.CoreCompileInputs.cache
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.dll
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\refint\OrganizandoTudo.dll
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.pdb
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\OrganizandoTudo.genruntimeconfig.cache
+C:\Projetos\WApp.OrganizandoTudo\OrganizandoTudo\obj\Debug\net7.0-windows\ref\OrganizandoTudo.dll
